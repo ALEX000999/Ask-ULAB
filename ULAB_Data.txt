@@ -1,0 +1,110 @@
+# UNIVERSITY INFO
+ULAB_GENERAL_001: University of Liberal Arts Bangladesh (ULAB) is a private liberal arts university located in Dhanmondi, Dhaka, Bangladesh.
+ULAB_GENERAL_002: ULAB was founded in February 2002 and received permission from the University Grants Commission (UGC) of Bangladesh in November 2003.
+ULAB_GENERAL_003: ULAB incorporates the values of Liberal Arts and Sustainability into its curricula through its General Education Department and Center for Sustainable Development.
+ULAB_GENERAL_004: ULAB is a research-intensive university with multiple research opportunities for faculty members and students.
+ULAB_GENERAL_005: ULAB has achieved a milestone in Times Higher Education Sustainability Impact Rankings 2026.
+
+# CAMPUS & CONTACT
+ULAB_CONTACT_001: ULAB main campus is located at House 56, Road 4/A, Satmasjid Road, Dhanmondi, Dhaka-1209.
+ULAB_CONTACT_002: ULAB permanent campus address is 688 Beribadh Road, Mohammadpur, Dhaka-1207.
+ULAB_CONTACT_003: ULAB admissions office contact: Mobile 01714-161613, 01713-091936, 01730-082197. Email: admissions@ulab.edu.bd
+ULAB_CONTACT_004: ULAB Co-Curricular Office email is ccoffice@ulab.edu.bd located at Campus B Room 201.
+ULAB_CONTACT_005: ULAB general website is ulab.edu.bd and admissions website is admissions.ulab.edu.bd
+
+# UNDERGRADUATE PROGRAMS
+ULAB_PROGRAM_001: ULAB offers undergraduate program Bachelor of Business Administration (BBA) under Department of Business Administration.
+ULAB_PROGRAM_002: ULAB offers undergraduate program Bachelor of Arts in English under Department of English and Humanities (DEH).
+ULAB_PROGRAM_003: ULAB offers undergraduate program Bachelor of Social Science in Media Studies and Journalism (MSJ) under Department of Media Studies and Journalism.
+ULAB_PROGRAM_004: ULAB offers undergraduate program Bachelor of Science in Computer Science and Engineering (CSE) under Department of CSE.
+ULAB_PROGRAM_005: ULAB offers undergraduate program Bachelor of Science in Electrical and Electronic Engineering (EEE) under Department of EEE.
+ULAB_PROGRAM_006: ULAB offers undergraduate program BA in Bangla Language and Literature (BLL) under Department of Bangla Language and Literature.
+ULAB_PROGRAM_007: ULAB offers undergraduate program Bachelor of Environmental Science and Sustainability (ESS) under Department of Environmental Science and Sustainability.
+
+# GRADUATE PROGRAMS
+ULAB_PROGRAM_008: ULAB offers graduate program Master of Arts (MA) in English under Department of English and Humanities.
+ULAB_PROGRAM_009: ULAB offers graduate program Master of Business Administration (MBA) under Department of Business Administration.
+ULAB_PROGRAM_010: ULAB offers graduate program Executive Master of Business Administration (EMBA) under Department of Business Administration.
+ULAB_PROGRAM_011: ULAB offers graduate program Masters in Communication under Department of Media Studies and Journalism.
+
+# DEPARTMENTS
+ULAB_DEPT_001: ULAB Department of Business Administration is the largest department of the university offering BBA, MBA, and EMBA programs.
+ULAB_DEPT_002: ULAB Department of English and Humanities (DEH) offers BA and MA in English with focus on literature, language, and humanities.
+ULAB_DEPT_003: ULAB Department of Media Studies and Journalism (MSJ) offers BSS and Masters in Communication with apprenticeship programs.
+ULAB_DEPT_004: ULAB Department of Computer Science and Engineering (CSE) offers BSc in CSE with focus on programming and technology.
+ULAB_DEPT_005: ULAB Department of Electrical and Electronic Engineering (EEE) offers BSc in EEE with focus on circuit design and electronics.
+ULAB_DEPT_006: ULAB Department of Bangla Language and Literature (BLL) offers BA in Bangla language and literature studies.
+ULAB_DEPT_007: ULAB Department of Environmental Science and Sustainability (ESS) offers BSc in environmental studies.
+ULAB_DEPT_008: ULAB General Education Department (GED) is a non-degree-granting program running courses to fulfill the liberal arts curriculum.
+
+# TUITION FEES
+ULAB_FEE_001: ULAB BBA program has 120 credit hours at BDT 6,500 per credit with total cost BDT 8,51,500.
+ULAB_FEE_002: ULAB MSJ Media Studies program has 133 credit hours at BDT 6,250 per credit with total cost BDT 9,02,750.
+ULAB_FEE_003: ULAB DEH English and Humanities program has 130 credit hours at BDT 4,650 per credit with total cost BDT 6,76,000.
+ULAB_FEE_004: ULAB BLL Bangla Language program has 130 credit hours at BDT 1,800 per credit with total cost BDT 3,05,500.
+ULAB_FEE_005: ULAB CSE Computer Science program has 140 credit hours at BDT 5,000 per credit with total cost BDT 7,71,500.
+ULAB_FEE_006: ULAB EEE Electrical Engineering program has 140 credit hours at BDT 5,000 per credit with total cost BDT 7,71,500.
+ULAB_FEE_007: ULAB one-time admission fee is BDT 15,000 for all undergraduate programs.
+ULAB_FEE_008: ULAB registration fee is BDT 2,500 per term for all undergraduate students.
+ULAB_FEE_009: ULAB students pay BDT 1,000 as language lab fee in the first two terms only.
+ULAB_FEE_010: ULAB students pay BDT 1,000 as CSO and CCO activity fee per term.
+ULAB_FEE_011: ULAB students pay BDT 3,000 as Essential Skills fee in the first four terms only.
+ULAB_FEE_012: ULAB remedial course fee is BDT 13,500 per course for Mathematics and English remedial courses.
+
+# ADMISSION REQUIREMENTS
+ULAB_ADMISSION_001: ULAB undergraduate admission requires minimum GPA 2.50 in both SSC and HSC examinations.
+ULAB_ADMISSION_002: Students with at least one GPA of 2.00 but aggregate GPA of 6.00 in SSC and HSC are eligible for ULAB admission.
+ULAB_ADMISSION_003: Sons and daughters of freedom fighters need an aggregate GPA of 5.00 in SSC and HSC for ULAB admission.
+ULAB_ADMISSION_004: O Level students need minimum GPA 2.50 in 5 subjects and A Level students need GPA 2.00 in 2 subjects for ULAB admission.
+ULAB_ADMISSION_005: International Baccalaureate and American High School Diploma holders are eligible for ULAB admission.
+ULAB_ADMISSION_006: Admission test is waived for candidates with minimum SAT score of 1100 in Math and Critical Reading at ULAB.
+ULAB_ADMISSION_007: ULAB admission test Part 1 covers English, Mathematics, Physics and Logical Reasoning as MCQ.
+ULAB_ADMISSION_008: ULAB admission test Part 2 is a written English essay test.
+ULAB_ADMISSION_009: ULAB calls applicants who meet minimum eligibility for an admission test and sometimes a departmental interview.
+ULAB_ADMISSION_010: Documents needed for ULAB admission: two passport-sized photos, board mark-sheets, certificates, NID photocopy.
+ULAB_ADMISSION_011: Incomplete applications are not accepted at ULAB. False information leads to immediate disqualification.
+ULAB_ADMISSION_012: ULAB offers admission in three sessions every year: Spring, Summer and Fall.
+ULAB_ADMISSION_013: ULAB application is available online at admissions.ulab.edu.bd and also at 688 Beribadh Road, Mohammadpur office.
+
+# SCHOLARSHIPS
+ULAB_SCHOLAR_001: ULAB gives 100% tuition scholarship to students with GPA 5.0 in both SSC and HSC without 4th subject.
+ULAB_SCHOLAR_002: ULAB gives 100% tuition scholarship to students with 5 A grades in O-Level and 2 A grades in A-Level in one sitting.
+ULAB_SCHOLAR_003: ULAB gives 40% tuition scholarship to students with GPA 5.0 in both SSC and HSC including 4th subject.
+ULAB_SCHOLAR_004: ULAB gives 40% tuition scholarship to siblings and spouses of current ULAB students.
+ULAB_SCHOLAR_005: ULAB gives 40% tuition scholarship to ULAB and GEMCON employee children and spouses.
+ULAB_SCHOLAR_006: ULAB gives 20% tuition scholarship to students with average GPA 4.50 to 4.99 in SSC and HSC.
+ULAB_SCHOLAR_007: ULAB gives 15% tuition scholarship to students with average GPA 4.00 to 4.49 in SSC and HSC.
+ULAB_SCHOLAR_008: ULAB gives 10% tuition scholarship to BBA students from Science background with average GPA 3.0.
+ULAB_SCHOLAR_009: ULAB gives 10% tuition scholarship to female students at ULAB.
+ULAB_SCHOLAR_010: ULAB gives up to 20% tuition scholarship to students from English medium school background.
+ULAB_SCHOLAR_011: ULAB scholarship maximum cap is 40% except for 100% scholarship cases. Multiple scholarships cannot exceed 40%.
+
+# CLUBS & CO-CURRICULAR
+ULAB_CLUB_001: ULAB clubs maintain regular weekly activities including field trips, workshops, seminars, games, concerts, and competitions.
+ULAB_CLUB_002: ULAB Debating Club fosters intellectual growth and communication skills through workshops, practice sessions, and inter-departmental debate tournaments.
+ULAB_CLUB_003: ULAB Electronics and Robotics Club (UERC) offers hands-on experiences in circuit design, hardware analysis, and electronics projects.
+ULAB_CLUB_004: ULAB Field Sports Club covers Cricket, Football and other field-based sports for all ULAB students male and female.
+ULAB_CLUB_005: ULAB Film Club cultivates cinematic culture through weekly screenings, film festivals, and workshops on editing and cinematography.
+ULAB_CLUB_006: ULAB Computer Society (ComSoc) is a club for IT-savvy students to share knowledge and develop leadership skills in technology.
+ULAB_CLUB_007: ULAB Computer Programming Club creates a platform for students to develop problem-solving and competitive programming skills.
+ULAB_CLUB_008: ULAB Language Club promotes English learning through film screenings, writing workshops, vocabulary sessions, and speaking competitions.
+ULAB_CLUB_009: ULAB Media Club provides platform for students interested in mass media through videography workshops, photo events, and exhibits.
+ULAB_CLUB_010: ULAB Art and Photography Club arranges art workshops, exhibitions, and creative events like Alpona during 21 February and Pohela Boishakh.
+ULAB_CLUB_011: ULAB Business Club provides platform for students to learn business practices from corporate professionals and business community.
+ULAB_CLUB_012: ULAB Indoor Games Club focuses on table tennis, chess, computer gaming, basketball, volleyball, badminton and other indoor sports.
+ULAB_CLUB_013: ULAB is a proud member of the Duke of Edinburgh Award program for co-curricular excellence.
+ULAB_CLUB_014: Co-Curricular Office organizes Club Days at the beginning of each term where clubs recruit new members.
+
+# NOTABLE FACULTY
+ULAB_FACULTY_001: Prof. Kaiser Hamidul Haq is a leading English language poet in Bangladesh and an award-winning translator at ULAB.
+ULAB_FACULTY_002: Prof. Abdul Mannan is a prominent Bangladeshi educator, political thinker, and regular columnist at ULAB.
+ULAB_FACULTY_003: Prof. Din M. Sumon Rahman is Dean of School of Social Sciences and Head of Media Studies and Journalism at ULAB.
+ULAB_FACULTY_004: Prof. Mahmud Hasan Khan is Professor in Department of English and Humanities and Director of Center for South Asian Studies at ULAB.
+ULAB_FACULTY_005: Shahnaj Husne Jahan is Director of Center for Archaeological Studies and Head of General Education Department at ULAB.
+
+# RESEARCH CENTERS
+ULAB_RESEARCH_001: ULAB has ten research centers that conduct research, run workshops and conferences, and promote knowledge creation.
+ULAB_RESEARCH_002: ULAB Center for Sustainable Development (CSD) focuses on ethical, environmental and social sustainability research.
+ULAB_RESEARCH_003: ULAB Center for Archaeological Studies (CAS) is the only research center in Bangladesh private universities dedicated to archaeological research.
+ULAB_RESEARCH_004: ULAB Center for Bangla Studies (CBS) seeks to advance understanding of Bangla language, literature, and culture.
+ULAB_RESEARCH_005: ULAB Center for Entrepreneurship and Sustainability (CES) is Bangladesh first university-based research center on entrepreneurship and business ethics.
