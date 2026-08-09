@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+ulab_chroma_db/
+.env
