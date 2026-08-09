@@ -14,15 +14,15 @@ print("Done")
 
 # Ollama pull model
 
-import subprocess
-import time
+#import subprocess
+#import time
 
-subprocess.Popen(["ollama", "serve"])
-time.sleep(5)
-print("Ollama server started!")
+#subprocess.Popen(["ollama", "serve"])
+#time.sleep(5)
+#print("Ollama server started!")
 
-!ollama pull qwen2.5
-print("Model ready!")
+#!ollama pull qwen2.5
+#print("Model ready!")
 
 #Import Modules
 
